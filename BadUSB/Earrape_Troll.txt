@@ -13,7 +13,7 @@ DELAY 2000
 STRING Set-Speaker -Volume 50
 ENTER 
 DELAY 2000
-STRING start YOUR YOUTUBE LINK WITH THE HTTPS://
+STRING start https://www.youtube.com/watch?v=dQw4w9WgXcQ&list=RDdQw4w9WgXcQ&start_radio=1://
 ENTER
 DELAY 4000
 GUI L
